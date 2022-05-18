@@ -155,3 +155,5 @@ module.exports = {
 
 `npm i typescript ts-loader --save-dev`
 新增tsconfig.json文件，在webpack.config.js中添加loader配置即可
+
+
